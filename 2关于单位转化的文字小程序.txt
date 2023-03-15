@@ -1,0 +1,12 @@
+﻿“2第二个项目单位转化.exe”(Win32): 已加载“C:\Users\Su\source\repos\2第二个项目单位转化\Debug\2第二个项目单位转化.exe”。已加载符号。
+“2第二个项目单位转化.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“2第二个项目单位转化.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“2第二个项目单位转化.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“2第二个项目单位转化.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“2第二个项目单位转化.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x347c 已退出，返回值为 0 (0x0)。
+“2第二个项目单位转化.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“2第二个项目单位转化.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+线程 0x3588 已退出，返回值为 0 (0x0)。
+线程 0x8740 已退出，返回值为 0 (0x0)。
+程序“[22940] 2第二个项目单位转化.exe”已退出，返回值为 0 (0x0)。
